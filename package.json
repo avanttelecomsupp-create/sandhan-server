@@ -1,0 +1,14 @@
+{
+  "name": "sandhan-server",
+  "version": "1.0.0",
+  "description": "Sandhan Remote Radio Bridge Signaling & Relay Engine",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "uuid": "^9.0.1",
+    "ws": "^8.18.0"
+  }
+}
